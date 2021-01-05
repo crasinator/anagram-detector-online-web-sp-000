@@ -23,6 +23,6 @@ class Anagram
   
 end 
 
-def budg(a, b, onek)
-  return var = onek - ( a + b )
+def budg(a, b, one_k)
+  return var = one_k - ( a + b )
 end 
